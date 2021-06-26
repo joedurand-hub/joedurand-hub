@@ -1,16 +1,16 @@
 ### Hello, I'm Joe! 👋🏻 
 ________________________________________
-Welcome to my portfolio, in it you will find the projects in which I have contributed, as well as works that I have developed.
+**Welcome to my portfolio, in it you will find the projects in which I have contributed, as well as works that I have developed.**
 
-Also, I write a medium blog about finance and technologies 🧠.
+**Also, I write a medium blog about finance and technologies** 🧠.
 
-If you want to know more about me, please, read me!
+**If you want to know more about me, please, read me!**
 
 *You can click on the icons and each one takes you to the corresponding link.* 
 ### <a href="https://windhandel-abstraction.medium.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" height="45" width="150" style="max-width:100%;"></a>
 
 ________________________________________
-**My skills!**
+### **My skills!**
 
 *Languages, frameworks, libraries and database applications.*
 
@@ -25,7 +25,7 @@ ________________________________________
 <a href="https://www.npmjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg" height="55" width="55" style="max-width:100%;">
 </a>
 ________________________________________
-**Contact me:**
+### **Contact me:**
 
 <a href="https://www.linkedin.com/in/joeldurand0/" rel="nofollow"><img alt="LinkedIn" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" align="left" height="45" width="45" style="max-width:100%;"></a>
 <a href="mailto:joeljuliandurand@gmail.com" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" height="45" width="45" style="max-width:100%;"></a>
