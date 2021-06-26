@@ -1,8 +1,17 @@
 ### Hello, I'm Joe! 🙌 
 __________________________________
+Welcome to my portfolio, in it you will find the projects in which I have contributed, as well as works that I have developed.
 
+Also, I write a medium blog about finance and technologies 🧠.  
+If you want to know more about me, please, read me!
+
+(Click on the icon)
+
+<a href="https://windhandel-abstraction.medium.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" height="65" width="450" style="max-width:100%;"></a>
 _________________________________________
-**Languages, frameworks, libraries and database applications.**
+**My skills!**
+
+*Languages, frameworks, libraries and database applications.*
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" height="55" width="55" style="max-width:100%;"></a>
 <a href="https://es.reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" height="55" width="55" style="max-width:100%;"></a>
