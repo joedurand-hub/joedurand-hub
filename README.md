@@ -2,12 +2,13 @@
 ________________________________________
 Welcome to my portfolio, in it you will find the projects in which I have contributed, as well as works that I have developed.
 
-Also, I write a medium blog about finance and technologies 🧠.  
+Also, I write a medium blog about finance and technologies 🧠.
+
 If you want to know more about me, please, read me!
 
-<a href="https://windhandel-abstraction.medium.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" height="65" width="450" style="max-width:100%;"></a>
+*You can click on the icons and each one takes you to the corresponding link.* 
+### <a href="https://windhandel-abstraction.medium.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" height="45" width="150" style="max-width:100%;"></a>
 
-(Click on the icon)
 ________________________________________
 **My skills!**
 
