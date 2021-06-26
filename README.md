@@ -5,9 +5,9 @@ Welcome to my portfolio, in it you will find the projects in which I have contri
 Also, I write a medium blog about finance and technologies 🧠.  
 If you want to know more about me, please, read me!
 
-(Click on the icon)
-
 <a href="https://windhandel-abstraction.medium.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" height="65" width="450" style="max-width:100%;"></a>
+
+(Click on the icon)
 _________________________________________
 **My skills!**
 
